@@ -1,1 +1,3 @@
-# IMBD-Movie-Analysis
+![image](https://github.com/Bmounika4/IMBD-Movie-Analysis/assets/134295102/f6f6f54a-5b94-46fa-9007-08f076e7a42a)
+IMDB Movie Analysis investigate a potential problem, “What factors influence the success of a movie on IMDB. Riposting to this problem is significant for movie producers, directors, and investors who want to understand what makes a movie successful to make informed decisions in their future projects.
+Here, I will perform Exploratory Data Analysis in which I will investigate the dataset to discover patterns, outliers  and generate statistical summary, create various graphical representations to understand the data.
