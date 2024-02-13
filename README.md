@@ -8,4 +8,3 @@ In a common language most people can understand – English, Spanish.
 Director names with high production qualities i.e., high budget will leave a lasting effect on the users.
 Movie durations should be average i.e., not too long or too short.
 Having high IMDB score is not always an indicator for a profitable movie but it can be a successful movie.
-![image](https://github.com/Bmounika4/IMBD-Movie-Analysis/assets/134295102/49482d4d-3506-41e9-bfdb-b9ca1bf121fd)
